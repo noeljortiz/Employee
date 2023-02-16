@@ -39,4 +39,7 @@ public class Executive extends Employee
 
         return payment;
     }
+    public double bonus(double bonus){
+        return bonus;
+    }
 }

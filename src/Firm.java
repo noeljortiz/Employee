@@ -31,22 +31,23 @@ public class Firm
 
 
         //3 Write the code to award a bonus of 500 to Elliot
+        staffList[0].
 
 
         //4 Write the code to add 40 hours to Dr. Cox
-
-
+staffList[3].
 
         //-----------------------------------------------------------------
         //  Pays all staff members.
         //-----------------------------------------------------------------
 
-        for (int count=0; count < staffList.length; count++)
+        for (int i=0; i < staffList.length; i++)
         {
             //1 Print out information about each object using the toString method
-
+            System.out.println(staffList[i].toString());
 
             //2 Write the code to pay a staff member and print it
+            System.out.println(staffList[i].pay());
 
 
             System.out.println ("-----------------------------------");
