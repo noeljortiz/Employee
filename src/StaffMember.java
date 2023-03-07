@@ -4,7 +4,7 @@
 //  Represents a generic staff member.
 //********************************************************************
 
-abstract public class StaffMember
+ public abstract class StaffMember
 {
     private String name;
     private String address;
@@ -33,9 +33,14 @@ abstract public class StaffMember
         return result;
     }
 
+    public abstract int addHours(int moreHours);
+    public abstract double awardBonus(double execBonus);
+    public abstract double pay();
+
     //-----------------------------------------------------------------
     //  Derived classes must define the pay method for each type of
     //  employee.
     //-----------------------------------------------------------------
-    public abstract double pay();
+
 }
+

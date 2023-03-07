@@ -23,9 +23,10 @@ public class Hourly extends Employee
     //  Adds the specified number of hours to this employee's
     //  accumulated hours.
     //-----------------------------------------------------------------
-    public void addHours (int moreHours)
+    public int addHours (int moreHours)
     {
         hoursWorked += moreHours;
+        return hoursWorked;
     }
 
     //-----------------------------------------------------------------

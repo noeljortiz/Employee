@@ -22,9 +22,10 @@ public class Executive extends Employee
     //-----------------------------------------------------------------
     //  Awards the specified bonus to this executive.
     //-----------------------------------------------------------------
-    public void awardBonus (double execBonus)
+    public double awardBonus (double execBonus)
     {
         bonus = execBonus;
+        return bonus;
     }
 
     //-----------------------------------------------------------------

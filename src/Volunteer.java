@@ -21,4 +21,14 @@ public class Volunteer extends StaffMember
     {
         return 0.0;
     }
+
+
+    public int addHours(int moreHours) {
+        return 0;
+    }
+
+    @Override
+    public double awardBonus(double execBonus) {
+        return 0;
+    }
 }

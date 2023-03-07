@@ -4,7 +4,7 @@
 //  Represents a general paid employee.
 //********************************************************************
 
-public class Employee extends StaffMember
+ public class Employee extends StaffMember
 {
     private String socialSecurityNumber;
     private double payRate;
@@ -47,5 +47,13 @@ public class Employee extends StaffMember
     public double pay()
     {
         return payRate;
+    }
+
+    @Override
+    public int addHours(int moreHours) {
+        return 0;
+    }
+    public double awardBonus(double execBonus){
+        return execBonus;
     }
 }
