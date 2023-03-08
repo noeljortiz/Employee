@@ -38,6 +38,18 @@ public class Firm
 
         //4 Write the code to add 40 hours to Dr. Cox
         staffList[3].addHours(40);
+
+
+        staffList[6].addHours(35);
+       staffList[7].addHours(400);
+       staffList[6].addSales(400);
+       staffList[7].addSales(950);
+       staffList[6].hWage(6.25,35);
+       staffList[7].hWage(9.75,40);
+
+
+
+
 //-----------------------------------------------------------------
         //  Pays all staff members.
         //-----------------------------------------------------------------

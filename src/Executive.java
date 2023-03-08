@@ -32,9 +32,9 @@ public class Executive extends Employee
     //  Computes and returns the pay for an executive, which is the
     //  regular employee payment plus a one-time bonus.
     //-----------------------------------------------------------------
-    public double pay()
+    public double pay(double payment)
     {
-        double payment = super.pay() + bonus;
+         payment = super.pay() + bonus;
 
         bonus = 0;
 

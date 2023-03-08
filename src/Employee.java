@@ -56,4 +56,12 @@
     public double awardBonus(double execBonus){
         return execBonus;
     }
+
+    public double addSales(double addSales) {
+        return addSales;
+    }
+    public double hWage(double hWage,double hWorkd){
+        return hWage;
+    }
 }
+

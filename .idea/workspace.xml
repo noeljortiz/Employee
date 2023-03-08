@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef62223a-958a-4a37-8606-216a2fee1c49" name="Changes" comment="orgin&#10;3">
-      <change afterPath="$PROJECT_DIR$/src/Commission.java" afterDir="false" />
+    <list default="true" id="ef62223a-958a-4a37-8606-216a2fee1c49" name="Changes" comment="orgin&#10;3&#10;ima dog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Commission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commission.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Executive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Executive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Firm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Firm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hourly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hourly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StaffMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaffMember.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Volunteer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Volunteer.java" afterDir="false" />
     </list>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676562445125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="orgin&#10;3&#10;ima dog">
+      <created>1678203772100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678203772101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="orgin" />
     <MESSAGE value="orgin&#10;3" />
-    <option name="LAST_COMMIT_MESSAGE" value="orgin&#10;3" />
+    <MESSAGE value="orgin&#10;3&#10;ima dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="orgin&#10;3&#10;ima dog" />
   </component>
 </project>

@@ -36,6 +36,8 @@
     public abstract int addHours(int moreHours);
     public abstract double awardBonus(double execBonus);
     public abstract double pay();
+    public abstract double addSales(double addSales);
+    public abstract double hWage(double hWage,double hWorkd);
 
     //-----------------------------------------------------------------
     //  Derived classes must define the pay method for each type of

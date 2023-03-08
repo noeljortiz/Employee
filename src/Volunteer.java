@@ -31,4 +31,12 @@ public class Volunteer extends StaffMember
     public double awardBonus(double execBonus) {
         return 0;
     }
+    public double addSales(double addSales){
+        return 0;
+    }
+
+    @Override
+    public double hWage(double hWage, double hWorkd) {
+        return 0;
+    }
 }
